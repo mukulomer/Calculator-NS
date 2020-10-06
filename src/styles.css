@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.screen {
+  height: 100px;
+  width: 500px;
+  border: 1px solid black;
+}
+
+.keys {
+  display: flex;
+  height: 50px;
+  width: 200px;
+}
